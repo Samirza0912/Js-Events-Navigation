@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.circle{
+    margin: 20px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-radius: 50%;
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
